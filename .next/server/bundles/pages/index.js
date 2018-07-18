@@ -224,7 +224,8 @@ function (_React$Component) {
   }]);
 
   return Index;
-}(__WEBPACK_IMPORTED_MODULE_2_react___default.a.Component);
+}(__WEBPACK_IMPORTED_MODULE_2_react___default.a.Component); // export default () => <div>Welcome to next.js!</div>
+
 
 
 

@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "lodash": "^4.17.10",
+    "micro": "latest",
     "next": "latest",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "micro": "latest"
+    "react-dom": "^16.0.0"
   },
   "license": "ISC"
 }

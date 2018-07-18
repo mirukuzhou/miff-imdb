@@ -53,3 +53,4 @@ export default class Index extends React.Component {
     )
   }
 }
+// export default () => <div>Welcome to next.js!</div>
